@@ -28,7 +28,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    gap: 80px;
+    gap: 150px;
     padding-left: 100px;
     height: 100vh;
 }
