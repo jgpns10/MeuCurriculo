@@ -41,7 +41,7 @@ body {
     max-width: 600px;
 }
 
-.container .text strong{
+.container .text strong {
     color: #ff9800;
 }
 
@@ -50,4 +50,10 @@ body {
     width: 300px;
     border-radius: 50%;
     object-fit: cover;
+}
+
+footer {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
 }
