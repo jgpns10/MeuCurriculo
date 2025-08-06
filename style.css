@@ -41,6 +41,10 @@ body {
     max-width: 600px;
 }
 
+.container .text strong{
+    color: #ff9800;
+}
+
 .container img {
     height: 300px;
     width: 300px;
