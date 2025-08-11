@@ -23,3 +23,23 @@ body {
 .menu a:hover {
     color: #ff9800;
 }
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 150px;
+    padding-left: 380px;
+    height: 100vh;
+}
+
+.container img{
+    height: 120px;
+    width: 120px;
+}
+
+#ftcurri{
+    height: 280px;
+    width: 200px;
+    border-radius: 40px;
+}
