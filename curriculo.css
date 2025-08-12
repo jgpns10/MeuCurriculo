@@ -29,7 +29,7 @@ body {
     align-items: center;
     justify-content: flex-start;
     gap: 150px;
-    padding-left: 380px;
+    padding-left: 480px;
     height: 100vh;
 }
 
@@ -38,10 +38,37 @@ body {
     width: 120px;
 }
 
+.centro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
 #ftcurri{
     height: 280px;
     width: 200px;
     border-radius: 40px;
+}
+
+.button{
+    border: solid 4px;
+    border-radius: 30px;
+    color: #183AB3;
+    background-color: #183AB3;
+    padding: 12px 24px;
+}
+
+.button:hover{
+    background-color: #ff9800;
+    border-color: #ff9800;
+    transition: 0.3s;
+}
+
+.button a:hover{
+    cursor: pointer;
+    color: #000000;
+    transition: 0.3s;
 }
 
 .button a{
@@ -49,4 +76,11 @@ body {
     color: white;
     text-decoration: none;
     font-weight: bold;
+    font-size: 20px;
+}
+
+footer {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
 }
