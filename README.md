@@ -24,7 +24,6 @@ O currículo online possui a seguinte ordem de páginas:
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
 - **Figma**
 
 ---
