@@ -31,6 +31,14 @@ O currículo online possui a seguinte ordem de páginas:
 
 
 
-## 🚀 Como Visualizar
+## 🚀 Acesse o Currículo Online
 
-Você pode acessar o currículo online diretamente pelo link do GitHub Pages (se tiver configurado):
+Você pode visualizar o currículo online através do GitHub Pages:
+
+[Meu Currículo Online](https://jgpns10.github.io/MeuCurriculo/)
+
+Ou, para rodar localmente:
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/jgpns10/MeuCurriculo.git
