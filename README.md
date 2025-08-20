@@ -16,7 +16,7 @@ O currículo online possui a seguinte ordem de páginas:
 
 1. **Início** – Apresentação pessoal e breve introdução.
 2. **Currículo** – Detalhes sobre minha formação, experiência e projetos.
-3. **Contato** – Formas de me contatar, incluindo links para redes sociais e e-mail.
+3. **Contato** – Formas de me contatar, incluindo links para redes sociais.
 
 ---
 
